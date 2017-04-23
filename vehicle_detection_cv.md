@@ -98,7 +98,7 @@ plt.title('Example Not-car Image')
 
 
 
-![png](output_2_2.png)
+![png](output_images/output_2_2.png)
 
 
 #### 1.2 Feature Extraction
@@ -560,7 +560,7 @@ print(round(time.time()-t, 2), 'Seconds to draw_boxes ...')
 
 
 
-![png](output_11_1.png)
+![png](output_images/output_11_1.png)
 
 
 
@@ -596,7 +596,7 @@ for index, file in enumerate(out_files):
 ```
 
 
-![png](output_13_0.png)
+![png](output_images/output_13_0.png)
 
 
 #### 2.2 Remove False Positives
@@ -676,7 +676,7 @@ fig.tight_layout()
 ```
 
 
-![png](output_15_0.png)
+![png](output_images/output_15_0.png)
 
 
 #### 2.3 HOG Sampling Optimization
